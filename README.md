@@ -1,4 +1,5 @@
 # TestRepo
 Aidan Sanders
-https://youtu.be/8ahQDppxtCM
+Video Link: https://youtu.be/8ahQDppxtCM
 Zoom and iMovie
+Github Link: https://github.com/Acsanders-CPP/TestRepo
