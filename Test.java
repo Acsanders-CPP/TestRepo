@@ -5,14 +5,6 @@ import java.io.PrintWriter;
  
 class Main {
   public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    int scannedPosition; // the position of patient zero
-    int numberOfBoxes; // the total number of individuals
-    double infectionRate;
-    double recoveryRate;
-    String information = ""; // this string holds the position and status of each person. Note that this string should never be printed outside of debugging purposes and instead treated sort of like a file
-    int timestepEndless = 0; // this is the timestep counter for endless mode - Will not affect the code in timestep mode
-    int timestepForced;
 
     System.out.println("Enter the number of boxes. It must be a perfect square");
 
